@@ -11,3 +11,5 @@ QuantLib==1.36
 tinydb==4.8.2
 jupyterlab==4.3.0
 python-dotenv==1.0.1
+pyarrow
+fastparquet
