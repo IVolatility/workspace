@@ -1,5 +1,6 @@
 setuptools
 ivolatility
+ivolatility_backtesting
 numpy==1.26.4
 pandas==2.2.3
 matplotlib==3.9.2
@@ -18,3 +19,4 @@ ipywidgets
 pathlib
 duckdb
 rich
+
